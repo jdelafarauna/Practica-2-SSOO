@@ -79,8 +79,9 @@ El programa genera un archivo con:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/nombre_repositorio.git
-   cd nombre_repositorio
+   git clone https://github.com/jdelafarauna/Practica-2-SSOO.git
+
+   cd Practica-2-SSOO
    ```
 
 2. **Compila el programa**:
@@ -147,8 +148,8 @@ Centro 1: 300 vacunados, 20 vacunas sobrantes
 
 ## Autores
 
-- [Nombre del Autor 1](https://github.com/autor1)
-- [Nombre del Autor 2](https://github.com/autor2) *(si aplica)*
+- [José de la Fuente Arauna](https://github.com/jdelafarauna)
+- [Juan José Guirao Garcia](https://github.com/juanjo2633) 
 
 ---
 
