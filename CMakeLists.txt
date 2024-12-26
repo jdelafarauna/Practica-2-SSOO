@@ -3,4 +3,4 @@ project(Practica_2_SSOO C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Practica_2_SSOO main.c)
+add_executable(Practica_2_SSOO Main.c Main.c Main.c)
